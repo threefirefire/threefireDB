@@ -1,0 +1,5 @@
+  for  ((i=1;i<$((RANDOM%19+3));i++))
+  do
+  echo 'haha'
+  done
+  
