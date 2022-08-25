@@ -1,8 +1,8 @@
 
 ## Overview	
 	
-threefiredb是一个内嵌式持久型的 高速NoSQL存储系统，以jar 包方式嵌入到应用中。   	
-threefiredb 提供了类似Redis 的数据结构。如KV、List、Map、ZSET等。也提供了TTL（生存时间）、备份、ACID事务，多节点强一致性等功能。   	
+threefiredb是一个基于leveldb开发内嵌式持久型的kv存储系统，部分功能以jni方式嵌入到应用中。   	
+threefiredb 提供了类似leveldb rocksdb的数据结构。如KV、List、Map、ZSET等。也提供了TTL（生存时间）、备份、ACID事务，多节点强一致性等功能。   	
 threefiredb完全基于磁盘存储，并提供最高百万级别的查询性能和十万的写入性能。   
 	
 ## Features	
