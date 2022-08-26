@@ -1,8 +1,8 @@
 
 ## Overview	
 	
-threefiredb是一个基于leveldb开发内嵌式持久型的kv存储系统，部分功能以jni方式嵌入到应用中。   	
-threefiredb 提供了类似leveldb rocksdb的数据结构。如KV、List、Map、ZSET等。也提供了TTL（生存时间）、备份、ACID事务，多节点强一致性等功能。   	
+threefiredb是一个基于leveldb并使用java开发的单机内嵌式持久型的kv存储系统（目前部分核心和扩展功能使用经过修改的rocksdb jni 实现。  	
+threefiredb 提供了丰富的数据结构 如KV、List、Map、ZSET等。也提供了TTL（生存时间）、备份、ACID事功能。   	
 threefiredb完全基于磁盘存储，并提供最高百万级别的查询性能和十万的写入性能。   
 	
 ## Features	
@@ -14,11 +14,6 @@ threefiredb完全基于磁盘存储，并提供最高百万级别的查询性能
 - TTL（生存时间）	
 - 备份与恢复	
 - ACID事务
-- 多节点一致性支持（官方插件使用Raft协议支持强一致性，也可自行使用其他协议或方式）	
-	
-#### threefiredb 和Redis的性能对比	
-	
- 注意：threefiredb的测试为本地操作，和Redis对比无意义，只为说明threefiredb的性能级别	
 	
 	
 ## Requirements	
