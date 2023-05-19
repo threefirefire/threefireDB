@@ -1,0 +1,38 @@
+#!/bin/bash
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-04-02T00:38:11" git commit --amend --date="2021-04-02T00:38:11" && git rebase --continue ;done
+
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-04-01T00:38:11" git commit --amend --date="2021-04-01T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-31T00:38:11" git commit --amend --date="2021-03-31T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-30T00:38:11" git commit --amend --date="2021-03-30T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-29T00:38:11" git commit --amend --date="2021-03-29T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-28T00:38:11" git commit --amend --date="2021-03-28T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-27T00:38:11" git commit --amend --date="2021-03-27T00:38:11" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-26T00:38:11" git commit --amend --date="2021-03-26T00:38:11" && git rebase --continue ;done
+
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-25T00:38:11" git commit --amend --date="2021-03-25T00:38:11" && git rebase --continue ;done
+
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-22T22:47:43" git commit --amend --date="2021-03-22T22:47:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-20T22:47:43" git commit --amend --date="2021-03-20T22:47:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-19T22:47:43" git commit --amend --date="2021-03-19T22:47:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-18T00:14:55" git commit --amend --date="2021-03-18T00:14:55" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-17T00:14:55" git commit --amend --date="2021-03-17T00:14:55" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-16T00:14:55" git commit --amend --date="2021-03-16T00:14:55" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-15T00:14:55" git commit --amend --date="2021-03-15T00:14:55" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-13T00:14:55" git commit --amend --date="2021-03-14T00:14:55" && git rebase --continue ;done
+
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-11T21:36:43" git commit --amend --date="2021-03-11T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-10T21:36:43" git commit --amend --date="2021-03-10T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-09T21:36:43" git commit --amend --date="2021-03-09T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-08T21:36:43" git commit --amend --date="2021-03-08T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-07T21:36:43" git commit --amend --date="2021-03-07T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-06T21:36:43" git commit --amend --date="2021-03-06T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-04T21:36:43" git commit --amend --date="2021-03-04T21:36:43" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-02T01:13:41" git commit --amend --date="2021-03-02T01:13:41" && git rebase --continue ;done
+
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-03-01T01:13:41" git commit --amend --date="2021-03-01T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-28T01:13:41" git commit --amend --date="2021-02-28T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-27T01:13:41" git commit --amend --date="2021-02-27T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-26T01:13:41" git commit --amend --date="2021-02-26T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-24T01:13:41" git commit --amend --date="2021-02-24T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-23T01:13:41" git commit --amend --date="2021-02-23T01:13:41" && git rebase --continue ;done
+for ((i=1;i<$((RANDOM%19+6));i++));do GIT_COMMITTER_DATE="2021-02-21T01:13:41" git commit --amend --date="2021-02-21T01:13:41" && git rebase --continue ;done
